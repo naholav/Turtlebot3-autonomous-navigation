@@ -15,7 +15,6 @@ The primary goal of this project is to simulate a TurtleBot3 robot capable of:
    - Combining Gazebo and RViz to create a robust testing and visualization environment for robot behavior.
 
 ---
-![Ekran Görüntüsü](screenshots/Screenshot_1.png)
 
 ## **Packages Overview**
 
@@ -86,6 +85,8 @@ This package combines the functionalities of the above packages and integrates R
    ```bash
    rosrun turtlebot3_simulations autonomous_navigation.py
    ```
+   ![Ekran Görüntüsü](screenshots/Screenshot_1.png)
+   ![Ekran Görüntüsü](screenshots/Screenshot_3.png)
 
 ---
 
