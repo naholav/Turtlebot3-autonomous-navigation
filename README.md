@@ -181,7 +181,5 @@ rosrun turtlebot3_simulations autonomous_navigation.py
 
 ---
 
-## **Contributors**
 
-This project was developed as part of a group effort to demonstrate the capabilities of autonomous robots in simulated environments. Group members are: **Arda Mulayim**, **Erdem Daud**, and **Mehmet Ali Sevdinoglu**, who contributed significantly to the project
 
