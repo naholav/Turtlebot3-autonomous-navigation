@@ -15,6 +15,7 @@ The primary goal of this project is to simulate a TurtleBot3 robot capable of:
    - Combining Gazebo and RViz to create a robust testing and visualization environment for robot behavior.
 
 ---
+![Ekran Görüntüsü](screenshots/Screenshot_1.png)
 
 ## **Packages Overview**
 
