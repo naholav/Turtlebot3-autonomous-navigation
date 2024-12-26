@@ -85,8 +85,6 @@ This package combines the functionalities of the above packages and integrates R
    ```bash
    rosrun turtlebot3_simulations autonomous_navigation.py
    ```
-   ![Ekran Görüntüsü](screenshots/Screenshot_1.png)
-   ![Ekran Görüntüsü](screenshots/Screenshot_3.png)
 
 ---
 
@@ -152,6 +150,8 @@ Execute the Python script for autonomous exploration:
 ```bash
 rosrun turtlebot3_simulations autonomous_navigation.py
 ```
+   ![Ekran Görüntüsü](screenshots/Screenshot_1.png)
+   ![Ekran Görüntüsü](screenshots/Screenshot_3.png)
 
 ---
 
